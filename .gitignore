@@ -14,6 +14,8 @@ venv/*
 # KDE directory preferences
 .directory
 
+Unused
+config.json
 # Linux trash folder which might appear on any partition or disk
 .Trash-*
 
@@ -49,6 +51,8 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+winehq.key
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
